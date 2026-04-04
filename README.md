@@ -28,3 +28,4 @@ Senior Computer Science Student at IMSIU, focused on AI/ML Engineering. I also b
 ## Reach Me
 
 - **[khaliddosari70@gmail.com](khaliddosari70@gmail.com)**
+- - **[LinkedIn](www.linkedin.com/in/khalid-al-dosari)**
