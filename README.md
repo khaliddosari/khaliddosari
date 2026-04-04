@@ -27,5 +27,5 @@ Senior Computer Science Student at IMSIU, focused on AI/ML Engineering. I also b
 
 ## Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalid--al--dosari-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalid-al-dosari)
-[![Email](https://img.shields.io/badge/Email-s444018297@stu.imsiu.edu.sa-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s444018297@stu.imsiu.edu.sa)
+[![LinkedIn]](https://www.linkedin.com/in/khalid-al-dosari)
+[![Email]](mailto:s444018297@stu.imsiu.edu.sa)
