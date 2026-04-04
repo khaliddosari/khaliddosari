@@ -6,8 +6,8 @@ Senior Computer Science Student at IMSIU, focused on AI/ML Engineering. I also b
 
 ## Currently Working On
 
-- **AI/ML Engineering roadmap** — working through ML foundations, deep learning, and MLOps
-- **Personal projects** — full-stack web apps and a startup project
+- **AI/ML Engineering roadmap**: working through ML foundations, deep learning, and MLOps
+- **Personal projects**: full-stack web apps and a startup project
 
 ---
 
