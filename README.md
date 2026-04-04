@@ -15,11 +15,11 @@ Senior Computer Science Student at IMSIU, focused on AI/ML Engineering. I also b
 
 **Languages:** `Python` `Java` `HTML` `JavaScript` `CSS`
 
+**ML / AI:** `scikit-learn` `pandas` `autograd` `matplotlib`
+
 **Frontend:** `React` `Tailwind CSS`
 
 **Backend / Data:** `Spring Boot` `Maven`
-
-**ML / AI:** `scikit-learn` `pandas` `autograd` `matplotlib`
 
 **DevOps:** `Docker` `GitHub Actions` `Fly.io` `Railway` `Cloudflare Workers`
 
