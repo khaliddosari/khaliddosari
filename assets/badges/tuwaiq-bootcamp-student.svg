@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Tuwaiq Academy Bootcamp Student">
+  <title>Tuwaiq Academy Bootcamp Student</title>
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#8B7BF0"/><stop offset="0.55" stop-color="#6C5CE7"/><stop offset="1" stop-color="#4834D4"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M127.48,17.00 A26.00,26.00 0 0 1 172.52,17.00 L253.92,64.00 A26.00,26.00 0 0 1 276.44,103.00 L276.44,197.00 A26.00,26.00 0 0 1 253.92,236.00 L172.52,283.00 A26.00,26.00 0 0 1 127.48,283.00 L46.08,236.00 A26.00,26.00 0 0 1 23.56,197.00 L23.56,103.00 A26.00,26.00 0 0 1 46.08,64.00 Z" fill="#3B2AB8"/>
+  <path d="M130.08,33.50 A23.00,23.00 0 0 1 169.92,33.50 L240.93,74.50 A23.00,23.00 0 0 1 260.85,109.00 L260.85,191.00 A23.00,23.00 0 0 1 240.93,225.50 L169.92,266.50 A23.00,23.00 0 0 1 130.08,266.50 L59.07,225.50 A23.00,23.00 0 0 1 39.15,191.00 L39.15,109.00 A23.00,23.00 0 0 1 59.07,74.50 Z" fill="url(#face)"/>
+  <path d="M130.08,33.50 A23.00,23.00 0 0 1 169.92,33.50 L240.93,74.50 A23.00,23.00 0 0 1 260.85,109.00 L260.85,191.00 A23.00,23.00 0 0 1 240.93,225.50 L169.92,266.50 A23.00,23.00 0 0 1 130.08,266.50 L59.07,225.50 A23.00,23.00 0 0 1 39.15,191.00 L39.15,109.00 A23.00,23.00 0 0 1 59.07,74.50 Z" fill="url(#sheen)"/>
+  <g transform="translate(150,104) scale(0.95) translate(-30,-26)" fill="#ffffff">
+    <rect x="0" y="34" width="15" height="18" rx="3"/>
+    <rect x="18" y="20" width="15" height="32" rx="3"/>
+    <rect x="36" y="34" width="15" height="18" rx="3"/>
+    <path d="M25.5 0l13 15h-26z"/>
+  </g>
+  <text x="150" y="178" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="44" font-weight="700" fill="#ffffff" direction="rtl">طالب</text>
+  <g>
+    <rect x="86" y="202" width="128" height="40" rx="20" fill="#ffffff"/>
+    <circle cx="190" cy="222" r="12" fill="#ffffff" stroke="#4834D4" stroke-width="2.2"/>
+    <path d="M190 215.4l2.4 4.9 5.4.8-3.9 3.8 1 5.4-4.9-2.6-4.9 2.6 1-5.4-3.9-3.8 5.4-.8z" fill="#4834D4"/>
+    <text x="141" y="229" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="20" font-weight="700" fill="#4834D4" direction="rtl">معسكر</text>
+  </g>
+</svg>

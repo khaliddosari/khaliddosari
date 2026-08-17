@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="NVIDIA Certified Associate: Generative AI LLMs">
+  <title>NVIDIA Certified Associate: Generative AI LLMs</title>
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="0.35" y2="1"><stop offset="0" stop-color="#9BD62B"/><stop offset="0.55" stop-color="#76B900"/><stop offset="1" stop-color="#548C00"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M127.48,17.00 A26.00,26.00 0 0 1 172.52,17.00 L253.92,64.00 A26.00,26.00 0 0 1 276.44,103.00 L276.44,197.00 A26.00,26.00 0 0 1 253.92,236.00 L172.52,283.00 A26.00,26.00 0 0 1 127.48,283.00 L46.08,236.00 A26.00,26.00 0 0 1 23.56,197.00 L23.56,103.00 A26.00,26.00 0 0 1 46.08,64.00 Z" fill="#4A7C00"/>
+  <path d="M130.08,33.50 A23.00,23.00 0 0 1 169.92,33.50 L240.93,74.50 A23.00,23.00 0 0 1 260.85,109.00 L260.85,191.00 A23.00,23.00 0 0 1 240.93,225.50 L169.92,266.50 A23.00,23.00 0 0 1 130.08,266.50 L59.07,225.50 A23.00,23.00 0 0 1 39.15,191.00 L39.15,109.00 A23.00,23.00 0 0 1 59.07,74.50 Z" fill="url(#face)"/>
+  <path d="M130.08,33.50 A23.00,23.00 0 0 1 169.92,33.50 L240.93,74.50 A23.00,23.00 0 0 1 260.85,109.00 L260.85,191.00 A23.00,23.00 0 0 1 240.93,225.50 L169.92,266.50 A23.00,23.00 0 0 1 130.08,266.50 L59.07,225.50 A23.00,23.00 0 0 1 39.15,191.00 L39.15,109.00 A23.00,23.00 0 0 1 59.07,74.50 Z" fill="url(#sheen)"/>
+  <text x="150" y="104" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="3.5">NVIDIA</text>
+  <rect x="94" y="116" width="112" height="2.5" rx="1.25" fill="#ffffff" opacity="0.75"/>
+  <text x="150" y="143" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="15" font-weight="600" fill="#ffffff" letter-spacing="2" opacity="0.95">CERTIFIED ASSOCIATE</text>
+  <text x="150" y="167" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="15" font-weight="600" fill="#ffffff" letter-spacing="1.5" opacity="0.95">GENERATIVE AI LLMs</text>
+  <rect x="74" y="186" width="152" height="42" rx="11" fill="#1F3D00" opacity="0.82"/>
+  <text x="150" y="215" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans Arabic', Tahoma, Geneva, Verdana, sans-serif" font-size="25" font-weight="800" fill="#D6F58A" letter-spacing="1.2">NCA-GENL</text>
+</svg>
