@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/"><img src="assets/badges/nvidia-nca-genl.svg" height="112" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.svg" height="112" alt="Tuwaiq Academy Bootcamp Student"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.svg" height="112" alt="Tuwaiq Academy Program Graduate"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.svg" height="112" alt="Tuwaiq Club Member"></a>
+  <a href="https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/"><img src="assets/badges/nvidia-nca-genl.png" height="112" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.png" height="112" alt="Tuwaiq Academy Bootcamp Student"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="112" alt="Tuwaiq Academy Program Graduate"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="112" alt="Tuwaiq Club Member"></a>
 </p>
 
 <p align="center">
