@@ -33,7 +33,7 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 | Project | Overview | Stack |
 | :--- | :--- | :--- |
-| **[Namtheg](https://github.com/khaliddosari/AutoML)** <br> [<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNkM1Q0U3IiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoNiIvPjxwb2x5bGluZSBwb2ludHM9IjE1IDMgMjEgMyAyMSA5Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMTQiIHgyPSIyMSIgeTI9IjMiLz48L3N2Zz4=" width="15" height="15" alt="Live demo" title="Live demo">](https://namtheg.onrender.com/) | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
+| **[Namtheg](https://github.com/khaliddosari/AutoML)** <br> [<img src="assets/icons/external-link.svg" width="15" height="15" alt="Live demo" title="Live demo">](https://namtheg.onrender.com/) | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
 
 ---
 
@@ -47,10 +47,3 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 **Data and Cloud Infrastructure**
 `PostgreSQL` `MongoDB` `MySQL` `Modal`
-
----
-
-## Languages
-
-- **Arabic**
-- **English**
