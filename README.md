@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Website-6C5CE7?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="tel:+966553225155"><img src="https://img.shields.io/badge/Phone-4A5568?style=flat" alt="Phone"></a>
 </p>
 
@@ -33,7 +33,7 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 | Project | Overview | Stack |
 | :--- | :--- | :--- |
-| **[Namtheg](https://github.com/khaliddosari/AutoML)** <br> [Live](https://namtheg.onrender.com/) | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
+| **[Namtheg](https://github.com/khaliddosari/AutoML)** <br> [<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNkM1Q0U3IiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoNiIvPjxwb2x5bGluZSBwb2ludHM9IjE1IDMgMjEgMyAyMSA5Ii8+PGxpbmUgeDE9IjEwIiB5MT0iMTQiIHgyPSIyMSIgeTI9IjMiLz48L3N2Zz4=" width="15" height="15" alt="Live demo" title="Live demo">](https://namtheg.onrender.com/) | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
 
 ---
 
@@ -50,11 +50,7 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 ---
 
-## Contact
+## Languages
 
-- **Email:** [khaliddosari70@gmail.com](mailto:khaliddosari70@gmail.com)
-- **LinkedIn:** [linkedin.com/in/khalid-al-dosari](https://www.linkedin.com/in/khalid-al-dosari)
-- **Website:** [khalid-ai.dev](https://khalid-ai.dev)
-- **Phone:** [+966 55 322 5155](tel:+966553225155)
-
-<sub>Languages: Arabic (native), English</sub>
+- **Arabic**
+- **English**
