@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/"><img src="assets/badges/nvidia-nca-genl.png" height="112" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.png" height="112" alt="Tuwaiq Academy Bootcamp Student"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="112" alt="Tuwaiq Academy Program Graduate"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="112" alt="Tuwaiq Club Member"></a>
+  <a href="https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/"><img src="assets/badges/nvidia-nca-genl.png" height="64" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.png" height="64" alt="Tuwaiq Academy Bootcamp Student"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="64" alt="Tuwaiq Academy Program Graduate"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="64" alt="Tuwaiq Club Member"></a>
 </p>
 
 <p align="center">
-  <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-khaliddosari70%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-khalid--al--dosari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Web-khalid--ai.dev-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="tel:+966553225155"><img src="https://img.shields.io/badge/Phone-%2B966%2055%20322%205155-4A5568?style=flat-square" alt="Phone"></a>
+  <a href="mailto:khaliddosari70@gmail.com" title="khaliddosari70@gmail.com"><img src="assets/icons/email.svg" height="34" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/khalid-al-dosari" title="linkedin.com/in/khalid-al-dosari"><img src="assets/icons/linkedin.svg" height="34" alt="LinkedIn"></a>
+  <a href="https://khalid-ai.dev" title="khalid-ai.dev"><img src="assets/icons/website.svg" height="34" alt="Website"></a>
+  <a href="tel:+966553225155" title="+966 55 322 5155"><img src="assets/icons/phone.svg" height="34" alt="Phone"></a>
 </p>
 
 ---
