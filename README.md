@@ -33,7 +33,7 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 | Project | Overview | Stack |
 | :--- | :--- | :--- |
-| **[Namtheg](https://github.com/khaliddosari/AutoML)** <br> [<img src="assets/icons/external-link.svg" width="15" height="15" alt="Live demo" title="Live demo">](https://namtheg.onrender.com/) | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
+| **[Namtheg](https://github.com/khaliddosari/AutoML)** | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
 
 ---
 
