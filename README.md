@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:khaliddosari70@gmail.com" title="khaliddosari70@gmail.com"><img src="assets/icons/email.svg" height="34" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/khalid-al-dosari" title="linkedin.com/in/khalid-al-dosari"><img src="assets/icons/linkedin.svg" height="34" alt="LinkedIn"></a>
-  <a href="https://khalid-ai.dev" title="khalid-ai.dev"><img src="assets/icons/website.svg" height="34" alt="Website"></a>
-  <a href="tel:+966553225155" title="+966 55 322 5155"><img src="assets/icons/phone.svg" height="34" alt="Phone"></a>
+  <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-khaliddosari70%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-khalid--al--dosari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Web-khalid--ai.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="tel:+966553225155"><img src="https://img.shields.io/badge/Phone-%2B966%2055%20322%205155-4A5568?style=for-the-badge" alt="Phone"></a>
 </p>
 
 ---
@@ -51,43 +51,6 @@ I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, a
 
 **Data and Cloud Infrastructure**
 `PostgreSQL` `MongoDB` `MySQL` `Modal`
-
----
-
-## Certifications
-
-| Credential | Issuer |
-| :--- | :--- |
-| NVIDIA-Certified Associate: Generative AI LLMs (NCA-GENL) | NVIDIA |
-| Building and Developing AI Models Bootcamp (200 Hours) | Tuwaiq Academy |
-| Building Transformer-Based NLP Applications | NVIDIA / Tuwaiq Academy |
-| Professional LLM Training Program | SDAIA / NVIDIA |
-| Accelerating End-to-End Data Science Workflows | NVIDIA |
-| Agentic AI | DeepLearning.AI |
-
----
-
-## Education
-
-**Building and Developing AI Models Bootcamp (200 Hours)**, Tuwaiq Academy <br>
-*06/2026 to Present* <br>
-Intensive applied bootcamp covering AI engineering, deep learning architectures, transformer-based NLP, computer vision pipelines, LLMs, and agentic workflows, with weekly production deliverables.
-
-**BSc Computer Science**, Imam Mohammad Ibn Saud Islamic University <br>
-*08/2022 to Present* <br>
-Software engineering, machine learning, deep learning, and algorithm design, applied directly to architecting and deploying full-stack AI platforms.
-
----
-
-## Leadership and Experience
-
-**Media and Design Lead**, Student Advisory Council <br>
-*09/2025 to 09/2026* <br>
-Led media and design initiatives across cross-functional student teams and coordinated event campaigns.
-
-**Part Time Zone Manager**, THA Staffing <br>
-*01/2026 to 05/2026* <br>
-Supervised on-site operational teams of up to 35 members across government and private conferences, holding 100% operational adherence.
 
 ---
 
