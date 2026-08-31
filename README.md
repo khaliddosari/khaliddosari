@@ -16,7 +16,7 @@
   <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="tel:+966553225155"><img src="https://img.shields.io/badge/Phone-4A5568?style=flat" alt="Phone"></a>
+  <a href="https://wa.me/966553225155"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
