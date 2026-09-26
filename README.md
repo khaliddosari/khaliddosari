@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/"><img src="assets/badges/nvidia-nca-genl.png" height="64" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
+  <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="64" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
   <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.png" height="64" alt="Tuwaiq Academy Bootcamp Student"></a>
   <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="64" alt="Tuwaiq Academy Program Graduate"></a>
   <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="64" alt="Tuwaiq Club Member"></a>
@@ -23,9 +23,11 @@
 
 ## About
 
-NVIDIA-Certified Associate for Generative AI LLMs (NCA-GENL), senior Computer Science student, and Tuwaiq Academy alumnus specializing in AI Engineering, MLOps, and agentic systems.
+NVIDIA-Certified Associate: Generative AI LLMs (NCA-GENL), senior Computer Science student and Tuwaiq Academy
+alumnus specializing in AI Engineering, MLOps, and Agentic Systems. Experienced in building end-to-end solutions
+and designing autonomous multi-agent pipelines, fine-tuned ML workflows, and full-stack web applications, with a
+proven ability to architect scalable, production-ready AI systems that transform raw data into deployed products.
 
-I build end to end: autonomous multi-agent pipelines, fine-tuned ML workflows, and the full-stack applications that put them in front of users. My focus is architecting scalable, production-ready AI systems that turn raw data into deployed products.
 
 ---
 
