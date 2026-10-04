@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="64" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-student.png" height="64" alt="Tuwaiq Academy Bootcamp Student"></a>
+  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="64" alt="Tuwaiq Academy Bootcamp Graduate"></a>
   <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="64" alt="Tuwaiq Academy Program Graduate"></a>
   <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="64" alt="Tuwaiq Club Member"></a>
 </p>
@@ -23,11 +23,11 @@
 
 ## About
 
-NVIDIA-Certified Associate: Generative AI LLMs (NCA-GENL), senior Computer Science student and Tuwaiq Academy
-alumnus specializing in AI Engineering, MLOps, and Agentic Systems. Experienced in building end-to-end solutions
-and designing autonomous multi-agent pipelines, fine-tuned ML workflows, and full-stack web applications, with a
-proven ability to architect scalable, production-ready AI systems that transform raw data into deployed products.
-
+Senior Computer Science student focusing on AI engineering and data science, with strong skills in product
+engineering. Passed the Tuwaiq Academy bootcamp in building and developing AI models, with over 200 hours of
+hands-on experience and weekly deliverables. Worked on several technical projects spanning software engineering,
+data science, AI engineering, and agentic workflows. Holds professional certifications such as NVIDIA-Certified
+Associate: Generative AI LLMs (NCA-GENL) and AWS Certified AI Practitioner.
 
 ---
 
@@ -35,17 +35,40 @@ proven ability to architect scalable, production-ready AI systems that transform
 
 | Project | Overview | Stack |
 | :--- | :--- | :--- |
-| **[Namtheg](https://github.com/khaliddosari/AutoML)** | Agentic AutoML platform running an autonomous 7-step pipeline that benchmarks 10 models across regression and classification in under 5 minutes. Serves zero-cold-start inference APIs from Modal cloud volumes while holding LLM cost under $0.50 per 50K tokens per run. | `LangChain` `FastAPI` `Next.js` `Modal` |
+| **[Raqeeb](https://github.com/khaliddosari/Raqeeb)** <br> Computer Vision Based Voice Agent | Spots prohibited items on X-ray belts and calls the authority. 92% mAP50. | `YOLOv8s-OBB` `Computer Vision` `Voice Agent` |
+| **[Namtheg](https://github.com/khaliddosari/Namtheg)** <br> Automated Machine Learning | Sandboxed agent runs EDA and trains 13 GPU-accelerated models. | `LangChain` `FastAPI` `Next.js` `Modal` |
+| **[Neurotrast](https://github.com/khaliddosari/Neurotrast-Tuwaiq)** <br> Dense Network vs CNN on CIFAR-10 | Dense net from scratch: 59% accuracy. Fine-tuned MobileNetV2: 91%. | `Deep Learning` `CNNs` `MobileNetV2` |
+| **Thaheen** (in progress) <br> EEG-to-Image Reconstruction | Graduation project. Cuts EEG sensors by 84% (128 to 20). | `DreamDiffusion` `ViT-Large` `CLIP` `EEG` |
+| **Nahj** (in progress) <br> Agentic Elective Course & Prerequisite Engine | 3 agentic pipelines recommend each student's top 5 electives. | `Agentic Pipelines` |
 
 ---
 
-## Tech Stack
+## Skills & Tools
 
-**AI and Machine Learning**
-`LLMs` `Agentic Workflows` `RAG` `Deep Learning` `Transformers` `NLP` `Computer Vision` `CNNs` `RNNs` `Reinforcement Learning` `MLOps` `Prompt Engineering`
+**AI & Machine Learning**
+`Data Science` `Machine Learning` `Deep Learning` `Computer Vision` `CNNs` `NLP` `Transformers` `MLOps` `LLMs` `RAG` `Agents` `Prompt Engineering`
 
-**Full-Stack Engineering**
-`Python` `Java` `JavaScript` `TypeScript` `FastAPI` `Next.js` `React` `Spring Boot` `Maven` `REST APIs` `Tailwind CSS` `HTML/CSS` `Git` `Docker`
+**Programming**
+`Python` `Java` `SQL` `JavaScript` `TypeScript`
 
-**Data and Cloud Infrastructure**
-`PostgreSQL` `MongoDB` `MySQL` `Modal`
+**Tools & Frameworks**
+`Git` `GitHub` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `PyTorch` `LangChain` `LangGraph` `FastAPI` `REST APIs`
+
+**Cloud & Databases**
+`SQLite` `PostgreSQL` `MongoDB` `MySQL` `Cloudflare` `Modal` `AWS` `Docker` `Firecracker` `Coolify`
+
+**Soft Skills**
+`Leadership` `Problem Solving` `Project Management` `Communication Skills` `Teamwork`
+
+**Languages**
+`Arabic` `English`
+
+---
+
+## Professional Certificates
+
+| Certificate | Issuer |
+| :--- | :--- |
+| **AWS Certified AI Practitioner** | AWS |
+| **[NVIDIA-Certified Associate: Generative AI LLMs](https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url)** | NVIDIA |
+| **[Building Transformer-Based NLP Applications](https://drive.google.com/file/d/1ZBXvNhcclWBJV4UdeHGCCD4088JTCzKK/view?usp=sharing)** | Tuwaiq Academy |
