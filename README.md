@@ -1,6 +1,4 @@
-<h1 align="center">Khalid Al Dosari</h1>
-
-<h2 align="center">AI Engineer | Data Scientist</h2>
+<h1 align="center">AI Engineer | Data Scientist</h1>
 
 <p align="center">
   <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="82" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
