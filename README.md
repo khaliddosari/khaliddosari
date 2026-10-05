@@ -3,17 +3,17 @@
 <h2 align="center">AI Engineer | Data Scientist</h3>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="90" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="94" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
-  <a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf"><img src="assets/badges/tuwaiq-program-graduate.png" height="90" align="top" alt="Tuwaiq Academy Program Graduate"></a>
-  <a href="https://khalid-ai.dev"><img src="assets/badges/aws-certified-ai-practitioner.png" height="90" alt="AWS Certified AI Practitioner"></a>
+  <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="84" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
+  <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="87" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
+  <a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf"><img src="assets/badges/tuwaiq-program-graduate.png" height="84" align="top" alt="Tuwaiq Academy Program Graduate"></a>
+  <a href="https://khalid-ai.dev"><img src="assets/badges/aws-certified-ai-practitioner.png" height="84" alt="AWS Certified AI Practitioner"></a>
 </p>
 
 <p align="center">
-  <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="28"></a>
-  <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
-  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" height="28"></a>
-  <a href="https://wa.me/966553225155"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28"></a>
+  <a href="mailto:khaliddosari70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="31"></a>
+  <a href="https://www.linkedin.com/in/khalid-al-dosari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="31"></a>
+  <a href="https://khalid-ai.dev"><img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" height="31"></a>
+  <a href="https://wa.me/966553225155"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" height="31"></a>
 </p>
 
 ---
