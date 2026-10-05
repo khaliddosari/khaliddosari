@@ -70,7 +70,7 @@ Associate: Generative AI LLMs (NCA-GENL) and AWS Certified AI Practitioner.
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="70%">Certificate</th>
+      <th align="left" width="70%">Certificate<br><img src="assets/spacer.png" width="2000" height="1" alt=""></th>
       <th align="left" width="30%">Issuer</th>
     </tr>
   </thead>
