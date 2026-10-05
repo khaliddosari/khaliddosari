@@ -1,15 +1,15 @@
 <h1 align="center">Khalid Al Dosari</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong><br>
+  <strong>AI Engineer | Data Scientist</strong><br>
   LLMs and Agentic Systems
 </p>
 
 <p align="center">
   <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="64" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="64" alt="Tuwaiq Academy Bootcamp Graduate"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-program-graduate.png" height="64" alt="Tuwaiq Academy Program Graduate"></a>
-  <a href="https://tuwaiq.edu.sa/"><img src="assets/badges/tuwaiq-club-member.png" height="64" alt="Tuwaiq Club Member"></a>
+  <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="67" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
+  <a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf"><img src="assets/badges/tuwaiq-program-graduate.png" height="64" align="top" alt="Tuwaiq Academy Program Graduate"></a>
+  <a href="https://khalid-ai.dev"><img src="assets/badges/aws-certified-ai-practitioner.png" height="64" alt="Tuwaiq Club Member"></a>
 </p>
 
 <p align="center">
@@ -67,8 +67,29 @@ Associate: Generative AI LLMs (NCA-GENL) and AWS Certified AI Practitioner.
 
 ## Professional Certificates
 
-| Certificate | Issuer |
-| :--- | :--- |
-| **AWS Certified AI Practitioner** | AWS |
-| **[NVIDIA-Certified Associate: Generative AI LLMs](https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url)** | NVIDIA |
-| **[Building Transformer-Based NLP Applications](https://drive.google.com/file/d/1ZBXvNhcclWBJV4UdeHGCCD4088JTCzKK/view?usp=sharing)** | Tuwaiq Academy |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="70%">Certificate</th>
+      <th align="left" width="30%">Issuer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://khalid-ai.dev">AWS Certified AI Practitioner</a></strong></td>
+      <td>AWS</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url">NVIDIA-Certified Associate: Generative AI LLMs</a></strong></td>
+      <td>NVIDIA</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf">Building and Developing AI Models Bootcamp</a></strong></td>
+      <td>Tuwaiq Academy</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf">Building Transformer-Based NLP Applications</a></strong></td>
+      <td>Tuwaiq Academy</td>
+    </tr>
+  </tbody>
+</table>
