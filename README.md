@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="93" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
-  <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/tuwaiq-bootcamp-graduate.png" height="96" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
+  <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/bootcamp_badge.png" height="93" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
   <a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf"><img src="assets/badges/tuwaiq-program-graduate.png" height="93" align="top" alt="Tuwaiq Academy Program Graduate"></a>
   <a href="https://khalid-ai.dev"><img src="assets/badges/aws-certified-ai-practitioner.png" height="93" alt="AWS Certified AI Practitioner"></a>
 </p>
