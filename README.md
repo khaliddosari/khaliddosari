@@ -4,7 +4,7 @@
   <a href="https://www.credly.com/badges/c9f84e34-32e5-4e67-8fe8-9fcf2ae50d1d/public_url"><img src="assets/badges/nvidia-nca-genl.png" height="72" alt="NVIDIA-Certified Associate: Generative AI LLMs"></a>
   <a href="https://khalid-ai.dev/assets/certifications/dz4OvNY.pdf"><img src="assets/badges/bootcamp_badge.png" height="72" align="top" alt="Tuwaiq Academy Bootcamp Graduate"></a>
   <a href="https://khalid-ai.dev/assets/certifications/g4PND8k.pdf"><img src="assets/badges/tuwaiq-program-graduate.png" height="72" align="top" alt="Tuwaiq Academy Program Graduate"></a>
-  <a href="https://khalid-ai.dev"><img src="assets/badges/aws-certified-ai-practitioner.png" height="72" alt="AWS Certified AI Practitioner"></a>
+  <a href="https://www.credly.com/badges/443d4aed-3629-43b4-bb79-af8fe9b8d0c8/public_url"><img src="assets/badges/aws-certified-ai-practitioner.png" height="72" alt="AWS Certified AI Practitioner"></a>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Associate: Generative AI LLMs and AWS Certified AI Practitioner.
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://khalid-ai.dev">AWS Certified AI Practitioner</a></strong></td>
+      <td><strong><a href="https://www.credly.com/badges/443d4aed-3629-43b4-bb79-af8fe9b8d0c8/public_url">AWS Certified AI Practitioner</a></strong></td>
       <td>AWS</td>
     </tr>
     <tr>
